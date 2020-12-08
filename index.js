@@ -1,14 +1,14 @@
-const append = ['Milo', 'Otis', 'Garfield']
-append.push('Odie')
+const append = ['Milo', 'Otis', 'Garfield'];
+append.push('Odie');
 
 
-const prepend = ['Milo', 'Otis', 'Garfield']
-prepend.unshift('Odie')
+const prepend = ['Milo', 'Otis', 'Garfield'];
+prepend.unshift('Odie');
 
 
-const removeLast = ['Milo', 'Otis', 'Garfield']
-removeLast.pop()
+const removeLast = ['Milo', 'Otis', 'Garfield'];
+removeLast.pop();
 
 
-const removeFirst = ['Milo', 'Otis', 'Garfield']
-removeFirst.shift()
+const removeFirst = ['Milo', 'Otis', 'Garfield'];
+removeFirst.shift();
